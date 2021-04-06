@@ -1,0 +1,47 @@
+2021-04-06 15:21:05.3692|TRACE|AliLog.Logger|source=|user=|action=|---------准备开始移动V2同步计划---------
+2021-04-06 15:21:06.1712|TRACE|AliLog.Logger|source=|user=|action=|待同步集团:11
+2021-04-06 15:21:06.1712|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917,BE2005592951,Fxft@2019
+2021-04-06 15:22:14.9922|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917动态任务2021/4/5 0:00:00下载失败1/5次
+2021-04-06 15:22:25.4982|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917,下载文件成功:C:\Users\Administrator\Desktop\Downloads\FXFT_ BE2004786917\2021-04-05\D_20210405.csv
+2021-04-06 15:22:26.2022|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_D_下载完成:100%
+2021-04-06 15:22:26.2022|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_D_下载完成:100%
+2021-04-06 15:22:26.7952|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_D_下载完成:100%
+2021-04-06 15:23:47.0095|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917检测静态是否下载成功
+2021-04-06 15:23:47.0095|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_S_下载完成:100%
+2021-04-06 15:23:47.0095|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917检测静态是否下载成功:2
+2021-04-06 15:24:11.4300|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917,下载文件成功:C:\Users\Administrator\Desktop\Downloads\FXFT_ BE2004786917\2021-04-06\S_20210406.csv
+2021-04-06 15:24:11.4300|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_S_下载完成:100%
+2021-04-06 15:24:11.4300|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_S_下载完成:100%
+2021-04-06 15:24:11.4300|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_S_下载完成:100%
+2021-04-06 15:24:42.4640|TRACE|AliLog.Logger|source=|user=|action=|---------------------------------
+2021-04-06 15:27:49.5230|TRACE|AliLog.Logger|source=|user=|action=|---------准备开始移动V2同步计划---------
+2021-04-06 15:27:50.2670|TRACE|AliLog.Logger|source=|user=|action=|待同步集团:11
+2021-04-06 15:27:50.2670|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917,BE2005592951,Fxft@2019
+2021-04-06 15:28:40.4379|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917,下载文件成功:C:\Users\Administrator\Desktop\Downloads\FXFT_ BE2004786917\2021-04-05\D_20210405.csv
+2021-04-06 15:28:40.4379|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_D_下载完成:100%
+2021-04-06 15:28:40.4379|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_D_下载完成:100%
+2021-04-06 15:28:40.4379|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_D_下载完成:100%
+2021-04-06 15:28:40.5819|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917,下载文件成功:C:\Users\Administrator\Desktop\Downloads\FXFT_ BE2004786917\2021-04-05\D_20210405.csv
+2021-04-06 15:30:05.2314|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917检测静态是否下载成功
+2021-04-06 15:30:05.2314|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_S_下载完成:100%
+2021-04-06 15:30:05.2314|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917检测静态是否下载成功:2
+2021-04-06 15:31:08.2734|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917,下载文件成功:C:\Users\Administrator\Desktop\Downloads\FXFT_ BE2004786917\2021-04-06\S_20210406.csv
+2021-04-06 15:31:08.2734|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_S_下载完成:100%
+2021-04-06 15:31:08.2734|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_S_下载完成:100%
+2021-04-06 15:31:08.2734|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_S_下载完成:100%
+2021-04-06 15:31:59.3294|TRACE|AliLog.Logger|source=|user=|action=|---------准备开始移动V2同步计划---------
+2021-04-06 15:31:59.9544|TRACE|AliLog.Logger|source=|user=|action=|待同步集团:11
+2021-04-06 15:31:59.9544|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917,BE2005592951,Fxft@2019
+2021-04-06 15:32:48.6395|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917,下载文件成功:C:\Users\Administrator\Desktop\Downloads\FXFT_ BE2004786917\2021-04-05\D_20210405.csv
+2021-04-06 15:32:48.6395|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_D_下载完成:100%
+2021-04-06 15:32:48.6395|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_D_下载完成:100%
+2021-04-06 15:32:48.6395|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_D_下载完成:100%
+2021-04-06 15:34:09.9855|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917检测静态是否下载成功
+2021-04-06 15:34:09.9855|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_S_下载完成:100%
+2021-04-06 15:34:09.9855|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917检测静态是否下载成功:2
+2021-04-06 15:34:33.7925|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917,下载文件成功:C:\Users\Administrator\Desktop\Downloads\FXFT_ BE2004786917\2021-04-06\S_20210406.csv
+2021-04-06 15:34:33.7925|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_S_下载完成:100%
+2021-04-06 15:34:33.7925|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_S_下载完成:100%
+2021-04-06 15:34:33.7925|TRACE|AliLog.Logger|source=|user=|action=|FXFT_ BE2004786917_S_下载完成:100%
+2021-04-06 15:35:04.8295|TRACE|AliLog.Logger|source=|user=|action=|---------------------------------
+2021-04-06 15:35:23.6785|TRACE|AliLog.Logger|source=|user=|action=|FXFT_BE2003102234,BE2003102234,FXft@2019
